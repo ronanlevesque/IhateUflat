@@ -24,16 +24,16 @@
   border: 1px solid #111;
   -webkit-border-radius: 0.3em;
   border-radius: 0.3em;
-  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.7) inset, 0 3px 0 #111111;
-  box-shadow: 0 0 1px rgba(255, 255, 255, 0.7) inset, 0 3px 0 #111111;
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.8) inset, 0 3px 0 #111111;
+  box-shadow: 0 0 1px rgba(255, 255, 255, 0.8) inset, 0 3px 0 #111111;
   cursor: pointer;
   -webkit-appearance: none;
 }
 .btn:active {
   position: relative;
   top: 2px;
-  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.7) inset, 0 1px 0 #111111;
-  box-shadow: 0 0 1px rgba(255, 255, 255, 0.7) inset, 0 1px 0 #111111;
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.8) inset, 0 1px 0 #111111;
+  box-shadow: 0 0 1px rgba(255, 255, 255, 0.8) inset, 0 1px 0 #111111;
 }
 
 .btn-white, .btn-github {
