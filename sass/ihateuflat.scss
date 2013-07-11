@@ -27,6 +27,7 @@
 	color: #fff;
 	background: #282828;
 	background: -webkit-linear-gradient(top, rgba(3, 3, 3, 1) 1%, rgba(40, 40, 40, 1) 100%);
+	background: linear-gradient(top, rgba(3, 3, 3, 1) 1%, rgba(40, 40, 40, 1) 100%);
 	border: 1px solid #111;
 	@include rounded (.3em);
 	-webkit-box-shadow: 0 0 2px rgba(255, 255, 255, .5) inset, 0 3px 0 #111;
@@ -47,6 +48,7 @@
 	text-shadow: 1px 1px 0 #fff;
 	background: #fff;
 	background: -webkit-linear-gradient(top, rgba(245, 245, 245, 1) 1%, rgba(255, 255, 255, 1) 100%);
+	background: linear-gradient(top, rgba(245, 245, 245, 1) 1%, rgba(255, 255, 255, 1) 100%);
 	border: 1px solid darken(#eee, 10%);
 	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#eee, 10%);
 	box-shadow: 0 1px 0 rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#eee, 10%);
@@ -64,6 +66,7 @@
 	text-shadow: 1px 1px 0 darken(#3498db, 15%);
 	background: #3498db;
 	background: -webkit-linear-gradient(top, rgba(37, 140, 209, 1) 1%, rgba(52, 152, 219, 1) 100%);
+	background: linear-gradient(top, rgba(37, 140, 209, 1) 1%, rgba(52, 152, 219, 1) 100%);
 	border: 1px solid darken(#3498db, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#3498db, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#3498db, 10%);
@@ -79,6 +82,7 @@
 	text-shadow: 1px 1px 0 darken(#27ae60, 15%);
 	background: #27ae60;
 	background: -webkit-linear-gradient(top, rgba(34, 153, 85, 1) 1%, rgba(39, 174, 96, 1) 100%);
+	background: linear-gradient(top, rgba(34, 153, 85, 1) 1%, rgba(39, 174, 96, 1) 100%);
 	border: 1px solid darken(#27ae60, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#27ae60, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#27ae60, 10%);
@@ -94,6 +98,7 @@
 	text-shadow: 1px 1px 0 darken(#d35400, 15%);
 	background: #d35400;
 	background: -webkit-linear-gradient(top, rgba(185, 64, 0, 1) 1%, rgba(211, 84, 0, 1) 100%);
+	background: linear-gradient(top, rgba(185, 64, 0, 1) 1%, rgba(211, 84, 0, 1) 100%);
 	border: 1px solid darken(#d35400, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#d35400, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#d35400, 10%);
@@ -109,6 +114,7 @@
 	text-shadow: 1px 1px 0 darken(#be1818, 15%);
 	background: #be1818;
 	background: -webkit-linear-gradient(top, rgba(167, 21, 21, 1) 1%, rgba(190, 24, 24, 1) 100%);
+	background: linear-gradient(top, rgba(167, 21, 21, 1) 1%, rgba(190, 24, 24, 1) 100%);
 	border: 1px solid darken(#be1818, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#be1818, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#be1818, 10%);
@@ -166,6 +172,7 @@
 	text-shadow: 1px 1px 0 #fff;
 	background: #fff;
 	background: -webkit-linear-gradient(top, rgba(245, 245, 245, 1) 1%, rgba(255, 255, 255, 1) 100%);
+	background: linear-gradient(top, rgba(245, 245, 245, 1) 1%, rgba(255, 255, 255, 1) 100%);
 	border: 1px solid darken(#eee, 10%);
 	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#eee, 10%);
 	box-shadow: 0 1px 0 rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#eee, 10%);
@@ -217,6 +224,7 @@
 	text-shadow: 1px 1px 0 darken(#3c599b, 15%);
 	background: #3c599b;
 	background: -webkit-linear-gradient(top, rgba(46, 68, 118, 1) 1%, rgba(60, 89, 155, 1) 100%);
+	background: linear-gradient(top, rgba(46, 68, 118, 1) 1%, rgba(60, 89, 155, 1) 100%);
 	border: 1px solid darken(#3c599b, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#3c599b, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#3c599b, 10%);
@@ -235,6 +243,7 @@
 	text-shadow: 1px 1px 0 darken(#00acee, 15%);
 	background: #00acee;
 	background: -webkit-linear-gradient(top, rgba(0, 135, 187, 1) 1%, rgba(0, 172, 238, 1) 100%);
+	background: linear-gradient(top, rgba(0, 135, 187, 1) 1%, rgba(0, 172, 238, 1) 100%);
 	border: 1px solid darken(#00acee, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#00acee, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#00acee, 10%);
@@ -253,6 +262,7 @@
 	text-shadow: 1px 1px 0 darken(#bf3729, 15%);
 	background: #bf3729;
 	background: -webkit-linear-gradient(top, rgba(149, 43, 32, 1) 1%, rgba(191, 55, 41, 1) 100%);
+	background: linear-gradient(top, rgba(149, 43, 32, 1) 1%, rgba(191, 55, 41, 1) 100%);
 	border: 1px solid darken(#bf3729, 10%);
 	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#bf3729, 10%);
 	box-shadow: 0 0 1px rgba(255, 255, 255, 1) inset, 0 3px 0 darken(#bf3729, 10%);

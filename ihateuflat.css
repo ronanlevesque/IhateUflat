@@ -19,6 +19,7 @@
   color: #fff;
   background: #282828;
   background: -webkit-linear-gradient(top, #030303 1%, #282828 100%);
+  background: linear-gradient(top, #030303 1%, #282828 100%);
   border: 1px solid #111;
   -webkit-border-radius: 0.3em;
   border-radius: 0.3em;
@@ -39,6 +40,7 @@
   text-shadow: 1px 1px 0 #fff;
   background: #fff;
   background: -webkit-linear-gradient(top, whitesmoke 1%, white 100%);
+  background: linear-gradient(top, whitesmoke 1%, white 100%);
   border: 1px solid #d4d4d4;
   -webkit-box-shadow: 0 1px 0 white inset, 0 3px 0 #d4d4d4;
   box-shadow: 0 1px 0 white inset, 0 3px 0 #d4d4d4;
@@ -55,6 +57,7 @@
   text-shadow: 1px 1px 0 #1d6fa5;
   background: #3498db;
   background: -webkit-linear-gradient(top, #258cd1 1%, #3498db 100%);
+  background: linear-gradient(top, #258cd1 1%, #3498db 100%);
   border: 1px solid #217dbb;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #217dbb;
   box-shadow: 0 0 1px white inset, 0 3px 0 #217dbb;
@@ -69,6 +72,7 @@
   text-shadow: 1px 1px 0 #19703e;
   background: #27ae60;
   background: -webkit-linear-gradient(top, #229955 1%, #27ae60 100%);
+  background: linear-gradient(top, #229955 1%, #27ae60 100%);
   border: 1px solid #1e8449;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #1e8449;
   box-shadow: 0 0 1px white inset, 0 3px 0 #1e8449;
@@ -83,6 +87,7 @@
   text-shadow: 1px 1px 0 #863600;
   background: #d35400;
   background: -webkit-linear-gradient(top, #b94000 1%, #d35400 100%);
+  background: linear-gradient(top, #b94000 1%, #d35400 100%);
   border: 1px solid #a04000;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #a04000;
   box-shadow: 0 0 1px white inset, 0 3px 0 #a04000;
@@ -97,6 +102,7 @@
   text-shadow: 1px 1px 0 #7a0f0f;
   background: #be1818;
   background: -webkit-linear-gradient(top, #a71515 1%, #be1818 100%);
+  background: linear-gradient(top, #a71515 1%, #be1818 100%);
   border: 1px solid #911212;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #911212;
   box-shadow: 0 0 1px white inset, 0 3px 0 #911212;
@@ -150,6 +156,7 @@
   text-shadow: 1px 1px 0 #fff;
   background: #fff;
   background: -webkit-linear-gradient(top, whitesmoke 1%, white 100%);
+  background: linear-gradient(top, whitesmoke 1%, white 100%);
   border: 1px solid #d4d4d4;
   -webkit-box-shadow: 0 1px 0 white inset, 0 3px 0 #d4d4d4;
   box-shadow: 0 1px 0 white inset, 0 3px 0 #d4d4d4;
@@ -200,6 +207,7 @@
   text-shadow: 1px 1px 0 #273964;
   background: #3c599b;
   background: -webkit-linear-gradient(top, #2e4476 1%, #3c599b 100%);
+  background: linear-gradient(top, #2e4476 1%, #3c599b 100%);
   border: 1px solid #2e4476;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #2e4476;
   box-shadow: 0 0 1px white inset, 0 3px 0 #2e4476;
@@ -216,6 +224,7 @@
   text-shadow: 1px 1px 0 #0075a2;
   background: #00acee;
   background: -webkit-linear-gradient(top, #0087bb 1%, #00acee 100%);
+  background: linear-gradient(top, #0087bb 1%, #00acee 100%);
   border: 1px solid #0087bb;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #0087bb;
   box-shadow: 0 0 1px white inset, 0 3px 0 #0087bb;
@@ -232,6 +241,7 @@
   text-shadow: 1px 1px 0 #80251b;
   background: #bf3729;
   background: -webkit-linear-gradient(top, #952b20 1%, #bf3729 100%);
+  background: linear-gradient(top, #952b20 1%, #bf3729 100%);
   border: 1px solid #952b20;
   -webkit-box-shadow: 0 0 1px white inset, 0 3px 0 #952b20;
   box-shadow: 0 0 1px white inset, 0 3px 0 #952b20;
