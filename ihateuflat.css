@@ -38,7 +38,7 @@
 
 .btn-white, .btn-github {
   color: #555;
-  text-shadow: 1px 1px 0 #fff;
+  text-shadow: -1px -1px 0 #fff;
   background: #fff;
   background: -webkit-linear-gradient(top, whitesmoke 1%, white 100%);
   background: -moz-linear-gradient(top, whitesmoke 1%, white 100%);
@@ -159,7 +159,7 @@
 
 .btn-chrome, .btn-firefox, .btn-ie, .btn-safari, .btn-opera, .btn-windows, .btn-apple {
   color: #777;
-  text-shadow: 1px 1px 0 #fff;
+  text-shadow: -1px -1px 0 #fff;
   background: #fff;
   background: -webkit-linear-gradient(top, whitesmoke 1%, white 100%);
   background: -moz-linear-gradient(top, whitesmoke 1%, white 100%);
